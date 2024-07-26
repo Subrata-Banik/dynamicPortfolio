@@ -1,6 +1,6 @@
 pwd
-# cd /Users/animeshrawat/Documents/Code/portfolio-website-dark-light-themes
-cd  /Users/animeshrawat/Documents/Code/portfolio-website-dark-light-themes/
+# cd /Users/banik/OneDrive/Documents/dynamicPortfolio
+cd  /Users/banik/OneDrive/Documents/dynamicPortfolio/
 mkdir public
 cp /Users/banik/OneDrive/Documents/dynamicPortfolio/index.html /Users/banik/OneDrive/Documents/dynamicPortfolio/public/
 cp /Users/banik/OneDrive/Documents/dynamicPortfolio/manifest.json /Users/banik/OneDrive/Documents/dynamicPortfolio/public/
